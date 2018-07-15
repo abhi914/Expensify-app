@@ -14,6 +14,7 @@ import 'normalize.css/normalize.css'
 import AppRouter from './routers/AppRouter';
 
 const store = configureStore();
+console.log('testing');
 
 
 const jsx = (
